@@ -1,0 +1,1 @@
+{"name":"Hanoi Travel Passport","short_name":"Hanoi Passport","description":"Explore Hanoi and mark visited places offline","start_url":"./","scope":"./","display":"standalone","background_color":"#faf6ed","theme_color":"#f7f1e5","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
